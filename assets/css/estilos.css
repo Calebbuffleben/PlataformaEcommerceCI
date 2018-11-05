@@ -1,0 +1,117 @@
+.alinhado-centro{
+    text-align: center;
+}
+.borda-base{
+    border-bottom: solid 1px #BBB;
+}
+.borda-topo{
+    border-top: solid 1px #BBB;
+}
+.espaco-vertical{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+#cadastro-e-login{
+    float: right;
+    clear: none;
+}
+.linha-carrinho{
+    line-height: 80px;
+    padding-bottom: 5px;
+    border-bottom: #CCC solid 1px;
+}
+.linha-carrinho input[type=text]{
+    width: 70%;
+}
+.miniatura{
+    width: 80px;
+    max-height: 80px;
+    vertical-align: middle;
+}
+.texto-direita{
+    text-align: right;
+}
+.miniaturas{
+    width: 35px;
+    height: 35px;
+    vertical-align: middle;
+}
+imagem img{
+    width:250px;
+    height: 250px;
+    margin-bottom: 15px;
+}
+.span4 img{
+    width: 300px;
+    height: 300px;
+}
+.cadastros input[type=text]{
+    width: 100%;
+}
+.cadastros ttextarea{
+    width: 100%;
+    height: 40px;
+}
+.tabarea {
+    height:40px;
+}
+.tabitem {
+    float:left;
+    width:50%;
+    height:40px;
+    line-height: 40px;
+    text-align: center;
+    border-bottom:1px solid #000;
+    background-color:#EEE;
+    cursor:pointer;
+}
+.activetab {
+    border-bottom:1px solid #FFF;
+    background-color:#FFF;
+}
+.tabbody {
+    display:none;
+    padding-top:20px;
+}
+.button{
+    border:0px;
+    background-color:#224074;
+    color:#FFF;
+    height:40px;
+    line-height: 40px;
+    border-radius:3px;
+    padding-left:20px;
+    padding-right:20px;
+    cursor:pointer;
+    font-size:13px;
+    display: inline-block;
+}
+.button a {
+    color:#FFF;
+    text-decoration: none;
+}
+.button_small {
+    height:30px;
+    line-height: 30px;
+}
+table {
+    margin-top:10px;
+}
+table th {
+    height:40px;
+    line-height: 40px;
+    background-color:#DDD;
+    text-align: left;
+    padding-left:10px;
+    padding-right: 10px;
+}
+table td {
+    height:40px;
+    line-height: 40px;
+    background-color:#EEE;
+    text-align: left;
+    padding-left:10px;
+    padding-right: 10px;
+}

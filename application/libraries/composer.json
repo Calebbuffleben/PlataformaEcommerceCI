@@ -1,0 +1,9 @@
+{
+    "name": "Loja",
+    "description": "Loja virtual",
+    
+    "require": {
+        "pagseguro/pagseguro-php-sdk": "*"
+    }
+
+}
